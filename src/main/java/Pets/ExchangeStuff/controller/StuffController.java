@@ -28,13 +28,14 @@ public class StuffController {
     @Autowired
     private StuffService stuffService;
 
+    @RequestMapping("/login")
     public String login() {
         return "login";
     }
 
     @RequestMapping("/doLogin")
     public String doLogin(String userName, String password) {
-        if (Objects.equals(userName,"admin") && Objects.equals(password,"1234")){
+        if (Objects.equals(userName,"admin") && Objects.equals(password,"admin")){
             return "redirect:main";
         }
         return "redirect:login";

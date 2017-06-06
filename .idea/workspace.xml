@@ -1,261 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c053e7e0-c6c5-4af5-87eb-a3680164ef57" name="Default" comment="Jsp HTML 用tomcatEE正常">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.gradle/3.3/taskArtifacts/fileHashes.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/dataSources/93a98553-75b3-465c-b2cb-be15dd5caf71/_metadata_/metadata" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/dataSources/93a98553-75b3-465c-b2cb-be15dd5caf71/_metadata_/metadata.keystream" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/dataSources/93a98553-75b3-465c-b2cb-be15dd5caf71/_metadata_/metadata.keystream.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/dataSources/93a98553-75b3-465c-b2cb-be15dd5caf71/_metadata_/metadata.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/dataSources/93a98553-75b3-465c-b2cb-be15dd5caf71/_metadata_/metadata_i" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/dataSources/93a98553-75b3-465c-b2cb-be15dd5caf71/_metadata_/metadata_i.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/classes/main/Pets/BloodBank/DAO/BloodBankDAO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/classes/main/Pets/BloodBank/DAO/BloodDetailDAO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/classes/main/Pets/BloodBank/DAO/DAOinterface/BloodBankIF.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/classes/main/Pets/BloodBank/DAO/DAOinterface/BloodDetailIF.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/classes/main/Pets/BloodBank/controller/BloodBankController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/classes/main/Pets/BloodBank/model/BloodBank.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/classes/main/Pets/BloodBank/model/BloodDetail.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/classes/main/Pets/BloodBank/service/BloodBankService.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/classes/main/Pets/ExchangeStuff/DAO/AreaDAO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/classes/main/Pets/ExchangeStuff/DAO/CartDAO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/classes/main/Pets/ExchangeStuff/DAO/DAOinterface/AreaIF.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/classes/main/Pets/ExchangeStuff/DAO/DAOinterface/CartIF.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/classes/main/Pets/ExchangeStuff/DAO/DAOinterface/ImageIF.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/classes/main/Pets/ExchangeStuff/DAO/DAOinterface/StuffDeIF.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/classes/main/Pets/ExchangeStuff/DAO/DAOinterface/StuffIF.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/classes/main/Pets/ExchangeStuff/DAO/ImageInfoDAO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/classes/main/Pets/ExchangeStuff/DAO/ObjectDAO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/classes/main/Pets/ExchangeStuff/DAO/StuffDAO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/classes/main/Pets/ExchangeStuff/DAO/StuffDetailDAO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/classes/main/Pets/ExchangeStuff/controller/StuffController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/classes/main/Pets/ExchangeStuff/model/Area.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/classes/main/Pets/ExchangeStuff/model/Cart.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/classes/main/Pets/ExchangeStuff/model/ImageInfo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/classes/main/Pets/ExchangeStuff/model/Stuff.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/classes/main/Pets/ExchangeStuff/model/StuffDetail.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/classes/main/Pets/ExchangeStuff/service/StuffService.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/classes/main/Pets/hibernateUtil/HibernateUtil.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/classes/main/Pets/hibernateUtil/HibernateUtil3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/classes/Pets/BloodBank/DAO/BloodBankDAO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/classes/Pets/BloodBank/DAO/BloodDetailDAO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/classes/Pets/BloodBank/DAO/DAOinterface/BloodBankIF.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/classes/Pets/BloodBank/DAO/DAOinterface/BloodDetailIF.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/classes/Pets/BloodBank/controller/BloodBankController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/classes/Pets/BloodBank/model/BloodBank.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/classes/Pets/BloodBank/model/BloodDetail.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/classes/Pets/BloodBank/service/BloodBankService.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/classes/Pets/ExchangeStuff/DAO/AreaDAO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/classes/Pets/ExchangeStuff/DAO/CartDAO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/classes/Pets/ExchangeStuff/DAO/DAOinterface/AreaIF.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/classes/Pets/ExchangeStuff/DAO/DAOinterface/CartIF.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/classes/Pets/ExchangeStuff/DAO/DAOinterface/ImageIF.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/classes/Pets/ExchangeStuff/DAO/DAOinterface/StuffDeIF.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/classes/Pets/ExchangeStuff/DAO/DAOinterface/StuffIF.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/classes/Pets/ExchangeStuff/DAO/ImageInfoDAO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/classes/Pets/ExchangeStuff/DAO/ObjectDAO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/classes/Pets/ExchangeStuff/DAO/StuffDAO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/classes/Pets/ExchangeStuff/DAO/StuffDetailDAO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/classes/Pets/ExchangeStuff/controller/StuffController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/classes/Pets/ExchangeStuff/model/Area.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/classes/Pets/ExchangeStuff/model/Cart.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/classes/Pets/ExchangeStuff/model/ImageInfo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/classes/Pets/ExchangeStuff/model/Stuff.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/classes/Pets/ExchangeStuff/model/StuffDetail.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/classes/Pets/ExchangeStuff/service/StuffService.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/classes/Pets/hibernateUtil/HibernateUtil.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/classes/Pets/hibernateUtil/HibernateUtil3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/antlr-2.7.7.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/asm-3.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/asm-commons-3.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/asm-tree-3.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/c3p0-0.9.5.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/classmate-1.3.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/commons-fileupload-1.3.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/commons-io-2.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/commons-lang3-3.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/commons-logging-1.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/dom4j-1.6.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/freemarker-2.3.19.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/hibernate-c3p0-5.2.10.Final.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/hibernate-commons-annotations-5.0.1.Final.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/hibernate-core-5.2.10.Final.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/hibernate-validator-5.1.3.Final.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/jackson-annotations-2.5.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/jackson-core-2.5.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/jackson-databind-2.5.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/jandex-2.0.3.Final.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/javassist-3.11.0.GA.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/javassist-3.20.0-GA.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/jboss-logging-3.3.0.Final.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.0.1.Final.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/jcl-over-slf4j-1.7.10.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/jstl-1.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/jul-to-slf4j-1.7.10.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/log4j-over-slf4j-1.7.10.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/logback-classic-1.1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/logback-core-1.1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/mchange-commons-java-0.2.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/ognl-3.0.6.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/slf4j-api-1.7.10.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/slf4j-simple-1.6.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/snakeyaml-1.14.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/spring-aop-4.3.8.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/spring-beans-4.3.8.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/spring-boot-1.2.2.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/spring-boot-autoconfigure-1.2.2.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/spring-boot-starter-1.2.2.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/spring-boot-starter-logging-1.2.2.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/spring-boot-starter-web-1.2.2.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/spring-context-4.3.8.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/spring-core-4.3.8.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/spring-expression-4.3.8.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/spring-jdbc-4.3.8.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/spring-orm-4.3.8.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/spring-tx-4.3.8.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/spring-web-4.3.8.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/spring-webmvc-4.3.8.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/struts2-core-2.3.15.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/transaction-api-1.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/validation-api-1.1.0.Final.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/xwork-core-2.3.15.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/gradle/wrapper/gradle-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/artifacts/Gradle___EE1T94___EEIT94_2_1_0_SNAPSHOT_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/artifacts/Gradle___EE1T94___EEIT94_2_1_0_SNAPSHOT_war__exploded_.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/dataSources.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/dataSources/93a98553-75b3-465c-b2cb-be15dd5caf71.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/gradle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__antlr_antlr_2_7_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__asm_asm_3_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__asm_asm_commons_3_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__asm_asm_tree_3_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__ch_qos_logback_logback_classic_1_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__ch_qos_logback_logback_core_1_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__com_fasterxml_classmate_1_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_5_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_5_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_5_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__com_mchange_c3p0_0_9_5_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__com_mchange_mchange_commons_java_0_2_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__commons_fileupload_commons_fileupload_1_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__commons_io_commons_io_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__dom4j_dom4j_1_6_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__javassist_javassist_3_11_0_GA.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__javax_servlet_jstl_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__javax_transaction_transaction_api_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__javax_validation_validation_api_1_1_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__jstl_jstl_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__ognl_ognl_3_0_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_apache_commons_commons_lang3_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_apache_struts_struts2_core_2_3_15_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_apache_struts_xwork_xwork_core_2_3_15_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_core_8_0_20.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_el_8_0_20.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_logging_juli_8_0_20.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_websocket_8_0_20.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_freemarker_freemarker_2_3_19.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_hibernate_hibernate_c3p0_5_2_10_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_hibernate_hibernate_core_5_2_10_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_hibernate_hibernate_validator_5_1_3_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_javassist_javassist_3_20_0_GA.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_jboss_jandex_2_0_3_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_jboss_logging_jboss_logging_3_3_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_0_1_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_slf4j_jcl_over_slf4j_1_7_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_slf4j_jul_to_slf4j_1_7_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_slf4j_log4j_over_slf4j_1_7_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_slf4j_slf4j_simple_1_6_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_springframework_boot_spring_boot_1_2_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_springframework_boot_spring_boot_autoconfigure_1_2_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_1_2_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_logging_1_2_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_tomcat_1_2_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_web_1_2_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_springframework_spring_aop_4_3_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_springframework_spring_beans_4_3_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_springframework_spring_context_4_3_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_springframework_spring_core_4_3_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_springframework_spring_expression_4_3_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_springframework_spring_jdbc_4_3_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_springframework_spring_orm_4_3_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_springframework_spring_tx_4_3_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_springframework_spring_web_4_3_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_springframework_spring_webmvc_4_3_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_yaml_snakeyaml_1_14.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/modules/EEIT94-2.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/modules/EEIT94-2_main.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/modules/EEIT94-2_test.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/Acity2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/META-INF/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/classes/hibernate.cfg.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/configs/spring/applicationContext.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/configs/spring/mvc-dispatcher-servlet.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/resources/main/hibernate.cfg.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/build/tmp/war/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/gradlew" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/gradlew.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/settings.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/java/Pets/BloodBank/DAO/BloodBankDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/java/Pets/BloodBank/DAO/BloodDetailDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/java/Pets/BloodBank/DAO/DAOinterface/BloodBankIF.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/java/Pets/BloodBank/DAO/DAOinterface/BloodDetailIF.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/java/Pets/BloodBank/controller/BloodBankController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/java/Pets/BloodBank/model/BloodBank.hbm.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/java/Pets/BloodBank/model/BloodBank.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/java/Pets/BloodBank/model/BloodDetail.hbm.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/java/Pets/BloodBank/model/BloodDetail.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/java/Pets/BloodBank/service/BloodBankService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/java/Pets/ExchangeStuff/DAO/AreaDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/java/Pets/ExchangeStuff/DAO/CartDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/java/Pets/ExchangeStuff/DAO/DAOinterface/AreaIF.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/java/Pets/ExchangeStuff/DAO/DAOinterface/CartIF.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/java/Pets/ExchangeStuff/DAO/DAOinterface/ImageIF.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/java/Pets/ExchangeStuff/DAO/DAOinterface/StuffDeIF.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/java/Pets/ExchangeStuff/DAO/DAOinterface/StuffIF.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/java/Pets/ExchangeStuff/DAO/ImageInfoDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/java/Pets/ExchangeStuff/DAO/ObjectDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/java/Pets/ExchangeStuff/DAO/StuffDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/java/Pets/ExchangeStuff/DAO/StuffDetailDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/java/Pets/ExchangeStuff/controller/StuffController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/java/Pets/ExchangeStuff/model/Area.hbm.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/java/Pets/ExchangeStuff/model/Area.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/java/Pets/ExchangeStuff/model/Cart.hbm.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/java/Pets/ExchangeStuff/model/Cart.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/java/Pets/ExchangeStuff/model/ImageInfo.hbm.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/java/Pets/ExchangeStuff/model/ImageInfo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/java/Pets/ExchangeStuff/model/Stuff.hbm.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/java/Pets/ExchangeStuff/model/Stuff.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/java/Pets/ExchangeStuff/model/StuffDetail.hbm.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/java/Pets/ExchangeStuff/model/StuffDetail.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/java/Pets/ExchangeStuff/service/StuffService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/java/Pets/hibernateUtil/HibernateUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/java/Pets/hibernateUtil/HibernateUtil3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/java/jdbc.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/java/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/resources/hibernate.cfg.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/Acity2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/configs/spring/applicationContext.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/configs/spring/mvc-dispatcher-servlet.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/web.xml" />
+    <list default="true" id="c053e7e0-c6c5-4af5-87eb-a3680164ef57" name="Default" comment="dispatcher怪怪的">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/images/ad.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/images/banner/banner_01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/images/banner/banner_02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/images/banner/banner_sm_01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/images/banner/banner_sm_02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/images/des_big.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/images/des_sm.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/images/des_sm2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/images/logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/images/pad.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/images/sh_btn.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/images/shopImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/images/shopping_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/images/step.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/images/userhead.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/images/webLogo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/java/Pets/EX/AjaxController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/java/config/spring/OpenSessionInViewFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/java/config/spring/SpringJavaConfiguration.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/WEB-INF/vendor/animate.css/animate.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/WEB-INF/vendor/animo.js/animo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/WEB-INF/vendor/bootstrap/dist/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/WEB-INF/vendor/fontawesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/WEB-INF/vendor/jQuery-Storage-API/jquery.storageapi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/WEB-INF/vendor/jquery-localize-i18n/dist/jquery.localize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/WEB-INF/vendor/jquery.easingjs/js/jquery.easing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/WEB-INF/vendor/jquery/dist/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/WEB-INF/vendor/matchMedia/matchMedia.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/WEB-INF/vendor/modernizr/modernizr.custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/WEB-INF/vendor/screenfull/dist/screenfull.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/WEB-INF/vendor/silmScroll/jquery.slimscroll.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/WEB-INF/vendor/simple-line-icons/css/simple-line-icons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/WEB-INF/vendor/whirl/dist/whirl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/addStuff.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/css/aos.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/css/app.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/css/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/login.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/main.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/stuffIndex.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/classmate-1.3.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/hibernate-commons-annotations-5.0.1.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/jandex-2.0.3.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/javassist-3.20.0-GA.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/jboss-logging-3.3.0.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.0.1.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/spring-jdbc-4.3.8.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/spring-orm-4.3.8.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/lib/spring-tx-4.3.8.RELEASE.jar" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../EEIT94-2/build/classes/main/Pets/ExchangeStuff/controller/StuffController.class" afterPath="$PROJECT_DIR$/../EEIT94-2/build/classes/main/Pets/ExchangeStuff/controller/StuffController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../EEIT94-2/build/classes/main/Pets/ExchangeStuff/model/ImageInfo.class" afterPath="$PROJECT_DIR$/../EEIT94-2/build/classes/main/Pets/ExchangeStuff/model/ImageInfo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../EEIT94-2/build/classes/main/Pets/ExchangeStuff/model/Stuff.class" afterPath="$PROJECT_DIR$/../EEIT94-2/build/classes/main/Pets/ExchangeStuff/model/Stuff.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/classes/Pets/ExchangeStuff/controller/StuffController.class" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/classes/Pets/ExchangeStuff/controller/StuffController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/classes/Pets/ExchangeStuff/model/ImageInfo.class" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/classes/Pets/ExchangeStuff/model/ImageInfo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/classes/Pets/ExchangeStuff/model/Stuff.class" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/WEB-INF/classes/Pets/ExchangeStuff/model/Stuff.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../EEIT94-2/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../EEIT94-2/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/index.jsp" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/index.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/web.xml" afterPath="$PROJECT_DIR$/../EEIT94-2/build/libs/exploded/EEIT94-2-1.0-SNAPSHOT.war/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../EEIT94-2/src/main/java/Pets/ExchangeStuff/controller/StuffController.java" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/java/Pets/ExchangeStuff/controller/StuffController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/configs/spring/mvc-dispatcher-servlet.xml" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/configs/spring/mvc-dispatcher-servlet.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/index.jsp" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/index.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/web.xml" afterPath="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/web.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../EEIT94-2/out/" />
     <ignored path="$PROJECT_DIR$/../EEIT94-2/.gradle/" />
@@ -318,17 +129,139 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="web.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../EEIT94-2/src/main/webapp/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="518">
-              <caret line="25" column="21" lean-forward="true" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+            <state relative-caret-position="100">
+              <caret line="13" column="94" lean-forward="true" selection-start-line="13" selection-start-column="94" selection-end-line="13" selection-end-column="94" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../EEIT94-2/src/main/webapp/css/app.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="4717" column="14" lean-forward="false" selection-start-line="4717" selection-start-column="14" selection-end-line="4717" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../EEIT94-2/src/main/webapp/WEB-INF/vendor/bootstrap/dist/js/bootstrap.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="2397" column="11" lean-forward="false" selection-start-line="2397" selection-start-column="11" selection-end-line="2397" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../EEIT94-2/src/main/webapp/login.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="163">
+              <caret line="76" column="95" lean-forward="true" selection-start-line="76" selection-start-column="95" selection-end-line="76" selection-end-column="95" />
+              <folding>
+                <element signature="n#style#0;n#table#0;n#form#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="simple-line-icons.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../EEIT94-2/src/main/webapp/WEB-INF/vendor/simple-line-icons/css/simple-line-icons.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="3" column="51" lean-forward="false" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../EEIT94-2/src/main/webapp/css/bootstrap.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="268">
+              <caret line="6509" column="1" lean-forward="true" selection-start-line="6509" selection-start-column="1" selection-end-line="6509" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../EEIT94-2/src/main/webapp/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="77">
+              <caret line="367" column="67" lean-forward="false" selection-start-line="367" selection-start-column="67" selection-end-line="367" selection-end-column="67" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mvc-dispatcher-servlet.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../EEIT94-2/src/main/webapp/configs/spring/mvc-dispatcher-servlet.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="133" column="42" lean-forward="false" selection-start-line="133" selection-start-column="42" selection-end-line="133" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AjaxController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../EEIT94-2/src/main/java/Pets/EX/AjaxController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+              <folding>
+                <marker date="1496738570275" expanded="true" signature="2:670" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpringJavaConfiguration.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../EEIT94-2/src/main/java/config/spring/SpringJavaConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="17" column="51" lean-forward="false" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Class" />
+        <option value="package-info" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>/vendor</find>
+      <find>styles/</find>
+      <find>css</find>
+      <find>img</find>
+      <find>WEN</find>
+      <find>form</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>WEB-INF/vendor</replace>
+      <replace>css</replace>
+      <replace>img</replace>
+      <replace>css/</replace>
+      <replace>WEN-INF/</replace>
+      <replace>WEB</replace>
+      <replace>url()</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../EEIT94-2" />
@@ -774,8 +707,22 @@
         <option value="$PROJECT_DIR$/../EEIT94-2/src/main/java/Pets/ExchangeStuff/model/ImageInfo.java" />
         <option value="$PROJECT_DIR$/../EEIT94-2/src/main/java/Pets/ExchangeStuff/model/Stuff.java" />
         <option value="$PROJECT_DIR$/../EEIT94-2/src/main/java/Pets/ExchangeStuff/model/Stuff.hbm.xml" />
+        <option value="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/stuffIndex.html" />
+        <option value="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/addStuff.html" />
+        <option value="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/login.html" />
+        <option value="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/main.jsp" />
+        <option value="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/../EEIT94-2/src/main/java/Pets/ExchangeStuff/controller/StuffController.java" />
         <option value="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/configs/spring/mvc-dispatcher-servlet.xml" />
+        <option value="$PROJECT_DIR$/../EEIT94-2/src/main/java/package-info.java" />
+        <option value="$PROJECT_DIR$/../EEIT94-2/src/main/java/config/spring/OpenSessionInViewFilter.java" />
+        <option value="$PROJECT_DIR$/../EEIT94-2/src/main/java/Pets/EX/AjaxController.java" />
         <option value="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/web.xml" />
+        <option value="$PROJECT_DIR$/../EEIT94-2/src/main/java/config/spring/SpringJavaConfiguration.java" />
+        <option value="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/WEB-INF/vendor/simple-line-icons/css/simple-line-icons.css" />
+        <option value="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/css/main.css" />
+        <option value="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/login.jsp" />
+        <option value="$PROJECT_DIR$/../EEIT94-2/src/main/webapp/css/bootstrap.css" />
       </list>
     </option>
   </component>
@@ -811,7 +758,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>ServletWithoutMappingInspection</id>
+            <id>WebProperties</id>
           </State>
         </selected-state>
       </profile-state>
@@ -895,10 +842,6 @@
               <option name="myItemId" value="configs" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -928,6 +871,84 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EEIT94-2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EEIT94-2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EEIT94-2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EEIT94-2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BloodBank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EEIT94-2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EEIT94-2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="gradle" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -943,21 +964,160 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.107615896" />
     <property name="project.structure.side.proportion" value="0.3135436" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="SQL Server (jTds)" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\EEIT94-2\src\main\webapp" />
-      <recent name="E:\EEIT94-2\src\main" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\EEIT94-2\src\main\webapp" />
+      <recent name="E:\EEIT94-2\src\main\java\config" />
+      <recent name="E:\EEIT94-2\src\main\webapp\css" />
+      <recent name="E:\EEIT94-2\src\main\webapp\WEB-INF" />
       <recent name="E:\EEIT94-2\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\EEIT94-2\src\main\webapp" />
+      <recent name="E:\EEIT94-2\src\main\webapp\WEB-INF\vendor\whirl\dist" />
       <recent name="E:\EEIT94-2\src\main" />
     </key>
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../EEIT94-2/.idea/artifacts/Gradle___EE1T94___EEIT94_2_1_0_SNAPSHOT_war__exploded_.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__antlr_antlr_2_7_7.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__com_fasterxml_classmate_1_3_0.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_5_0.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_5_4.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_5_4.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__commons_fileupload_commons_fileupload_1_3_1.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__commons_io_commons_io_2_2.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__javax_servlet_jstl_1_2.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_javassist_javassist_3_20_0_GA.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_jboss_jandex_2_0_3_Final.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_jboss_logging_jboss_logging_3_3_0_Final.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_0_1_Final.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_springframework_spring_aop_4_3_8_RELEASE.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_springframework_spring_beans_4_3_8_RELEASE.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_springframework_spring_context_4_3_8_RELEASE.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_springframework_spring_core_4_3_8_RELEASE.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_springframework_spring_expression_4_3_8_RELEASE.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_springframework_spring_jdbc_4_3_8_RELEASE.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_springframework_spring_orm_4_3_8_RELEASE.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_springframework_spring_tx_4_3_8_RELEASE.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_springframework_spring_web_4_3_8_RELEASE.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../EEIT94-2/.idea/libraries/Gradle__org_springframework_spring_webmvc_4_3_8_RELEASE.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../EEIT94-2/.idea/modules/EEIT94-2_main.iml</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../EEIT94-2/.gitignore</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -971,7 +1131,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.jsp">
+  <component name="RunManager" selected="Tomcat Server.index.jsp">
     <configuration default="false" name="Acity2.html" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 8.5.15" ALTERNATIVE_JRE_ENABLED="false">
       <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/Acity2.html" />
       <option name="UPDATING_POLICY" value="restart-server" />
@@ -1047,6 +1207,152 @@
     </configuration>
     <configuration default="false" name="index.jsp" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/index.jsp">
       <method />
+    </configuration>
+    <configuration default="false" name="stuffIndex.html" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 8.5.15" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/stuffIndex.html" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Gradle : EE1T94 : EEIT94-2-1.0-SNAPSHOT.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_EEIT94-2" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61633" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : EE1T94 : EEIT94-2-1.0-SNAPSHOT.war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="false" name="index.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 8.5.15" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/index.jsp" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Gradle : EE1T94 : EEIT94-2-1.0-SNAPSHOT.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_EEIT94-2" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61633" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : EE1T94 : EEIT94-2-1.0-SNAPSHOT.war" />
+        </option>
+      </method>
     </configuration>
     <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
       <option name="UPDATING_POLICY" value="restart-server" />
@@ -1559,14 +1865,18 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <list size="2">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Acity2.html" />
       <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.jsp" />
+      <item index="2" class="java.lang.String" itemvalue="Tomcat Server.stuffIndex.html" />
+      <item index="3" class="java.lang.String" itemvalue="Tomcat Server.index.jsp" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.jsp" />
-        <item index="1" class="java.lang.String" itemvalue="Tomcat Server.Acity2.html" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Tomcat Server.index.jsp" />
+        <item index="1" class="java.lang.String" itemvalue="Tomcat Server.stuffIndex.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.jsp" />
+        <item index="3" class="java.lang.String" itemvalue="Tomcat Server.Acity2.html" />
       </list>
     </recent_temporary>
   </component>
@@ -1581,7 +1891,7 @@
       <option name="presentableId" value="Default" />
       <updated>1496719149129</updated>
       <workItem from="1496719153069" duration="1660000" />
-      <workItem from="1496720871252" duration="380000" />
+      <workItem from="1496720871252" duration="11684000" />
     </task>
     <task id="LOCAL-00001" summary="Jsp HTML 用tomcatEE正常">
       <created>1496719877385</created>
@@ -1590,11 +1900,27 @@
       <option name="project" value="LOCAL" />
       <updated>1496719877385</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Jsp HTML 用tomcatEE正常">
+      <created>1496721269665</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1496721269665</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2040000" />
+    <option name="totallyTimeSpent" value="13344000" />
+  </component>
+  <component name="TodoView" selected-index="4">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1602,7 +1928,7 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293348" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32858709" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1612,20 +1938,21 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968238" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968238" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968238" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293348" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32968238" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32858709" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41840088" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293348" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968238" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26869658" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18696581" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.084935896" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1634,18 +1961,44 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Jsp HTML 用tomcatEE正常" />
-    <option name="LAST_COMMIT_MESSAGE" value="Jsp HTML 用tomcatEE正常" />
+    <MESSAGE value="dispatcher怪怪的" />
+    <option name="LAST_COMMIT_MESSAGE" value="dispatcher怪怪的" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1698,8 +2051,8 @@
         <state relative-caret-position="462">
           <caret line="22" column="28" lean-forward="false" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
           <folding>
-            <element signature="e#806#807#0" expanded="true" />
-            <element signature="e#831#832#0" expanded="true" />
+            <element signature="e#806#807#0" expanded="false" />
+            <element signature="e#831#832#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1752,14 +2105,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../EEIT94-2/src/main/webapp/configs/spring/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="20" column="53" lean-forward="false" selection-start-line="20" selection-start-column="53" selection-end-line="20" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../EEIT94-2/src/main/java/Pets/BloodBank/DAO/DAOinterface/BloodBankIF.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
@@ -1776,26 +2121,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../EEIT94-2/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/93a98553-75b3-465c-b2cb-be15dd5caf71/console.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../EEIT94-2/src/main/webapp/configs/spring/mvc-dispatcher-servlet.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1659">
-          <caret line="79" column="0" lean-forward="false" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1829,8 +2158,8 @@
         <state relative-caret-position="273">
           <caret line="22" column="28" lean-forward="false" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
           <folding>
-            <element signature="e#806#807#0" expanded="true" />
-            <element signature="e#831#832#0" expanded="true" />
+            <element signature="e#806#807#0" expanded="false" />
+            <element signature="e#831#832#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1872,10 +2201,322 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../EEIT94-2/src/main/webapp/WEB-INF/vendor/whirl/dist/whirl.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EEIT94-2/src/main/webapp/css/aos.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dropbox/iMooc/Spring 入門/src/main/java/com/imooc/bean/BeanScope.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#71#72#0" expanded="false" />
+            <element signature="e#134#135#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EEIT94-2/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="74" column="13" lean-forward="true" selection-start-line="74" selection-start-column="13" selection-end-line="74" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EEIT94-2/src/main/webapp/addStuff.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="198" column="25" lean-forward="false" selection-start-line="198" selection-start-column="25" selection-end-line="198" selection-end-column="25" />
+          <folding>
+            <marker date="1496735257796" expanded="true" signature="1484:18907" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="1567:2583" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="1595:2574" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="1938:2332" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="1975:2066" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="2096:2152" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="2182:2237" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="2267:2320" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="2378:2563" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="2615:17399" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="2692:17388" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="2720:17376" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="2768:3340" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="2827:2958" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="3010:3138" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="3190:3326" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="3374:17363" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="3440:11388" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="3477:10189" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="3739:9283" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="3788:4451" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="3954:4428" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="4001:4105" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="4048:4069" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="4152:4253" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="4198:4218" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="4300:4404" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="4347:4368" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="4500:5157" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="4608:4614" ph="&amp;nbsp;" />
+            <marker date="1496735257796" expanded="true" signature="4684:5134" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="4731:4825" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="4774:4790" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="4872:4968" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="4915:4931" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="5015:5110" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="5058:5074" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="5197:5975" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="5489:5561" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="5873:5952" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="6015:6792" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="6322:6395" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="6693:6769" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="6832:7663" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="7159:7237" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="7557:7640" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="7712:8458" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="7863:8283" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="7921:8258" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="8110:8231" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="8498:8831" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="8747:8805" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="8883:9262" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="9171:9239" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="9349:9400" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="9681:9955" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="9997:10149" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="10212:10522" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="10256:10498" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="10370:10477" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="10545:10856" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="10584:10832" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="10701:10811" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="10879:11371" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="10918:11347" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="11029:11326" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="11077:11303" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="11446:12509" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="11469:11784" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="11508:11760" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="11621:11739" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="11807:12139" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="11846:12115" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="11965:12094" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="12162:12492" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="12201:12468" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="12317:12447" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="12571:17348" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="12607:12786" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="12641:12687" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="12721:12767" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="12831:14302" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="12874:13032" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="12905:13011" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="13075:14283" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="13102:13295" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="13145:13267" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="13315:13366" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="13430:13607" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="13456:13584" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="13671:13839" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="13697:13816" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="13903:14069" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="13929:14046" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="14110:14262" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="14347:15818" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="14390:14548" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="14421:14527" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="14591:15799" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="14618:14811" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="14661:14783" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="14831:14882" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="14946:15123" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="14972:15100" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="15187:15355" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="15213:15332" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="15419:15585" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="15445:15562" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="15626:15778" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="15860:17331" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="15903:16061" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="15934:16040" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="16104:17312" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="16131:16324" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="16174:16296" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="16344:16395" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="16459:16636" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="16485:16613" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="16700:16868" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="16726:16845" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="16932:17098" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="16958:17075" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="17139:17291" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="17434:17580" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="17635:17684" ph="..." />
+            <marker date="1496735257796" expanded="true" signature="17647:17653" ph="©" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EEIT94-2/src/main/webapp/stuffIndex.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="34" column="50" lean-forward="false" selection-start-line="34" selection-start-column="50" selection-end-line="34" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EEIT94-2/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EEIT94-2/src/main/java/Pets/ExchangeStuff/service/StuffService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EEIT94-2/src/main/webapp/main.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EEIT94-2/src/main/java/Pets/ExchangeStuff/controller/StuffController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EEIT94-2/src/main/webapp/configs/spring/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1455">
+          <caret line="29" column="20" lean-forward="false" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EEIT94-2/src/main/java/package-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EEIT94-2/src/main/java/config/spring/OpenSessionInViewFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-21">
+          <caret line="28" column="31" lean-forward="false" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EEIT94-2/src/main/webapp/configs/spring/mvc-dispatcher-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="133" column="42" lean-forward="false" selection-start-line="133" selection-start-column="42" selection-end-line="133" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EEIT94-2/src/main/java/Pets/EX/AjaxController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding>
+            <marker date="1496738570275" expanded="true" signature="2:670" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EEIT94-2/src/main/java/config/spring/SpringJavaConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="51" lean-forward="false" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EEIT94-2/src/main/webapp/WEB-INF/vendor/simple-line-icons/css/simple-line-icons.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="51" lean-forward="false" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EEIT94-2/src/main/webapp/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="367" column="67" lean-forward="false" selection-start-line="367" selection-start-column="67" selection-end-line="367" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EEIT94-2/src/main/webapp/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="76" column="95" lean-forward="true" selection-start-line="76" selection-start-column="95" selection-end-line="76" selection-end-column="95" />
+          <folding>
+            <element signature="n#style#0;n#table#0;n#form#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EEIT94-2/src/main/webapp/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="6509" column="1" lean-forward="true" selection-start-line="6509" selection-start-column="1" selection-end-line="6509" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../EEIT94-2/src/main/webapp/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
-          <caret line="25" column="21" lean-forward="true" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        <state relative-caret-position="100">
+          <caret line="13" column="94" lean-forward="true" selection-start-line="13" selection-start-column="94" selection-end-line="13" selection-end-column="94" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EEIT94-2/src/main/webapp/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="4717" column="14" lean-forward="false" selection-start-line="4717" selection-start-column="14" selection-end-line="4717" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EEIT94-2/src/main/webapp/WEB-INF/vendor/bootstrap/dist/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="2397" column="11" lean-forward="false" selection-start-line="2397" selection-start-column="11" selection-end-line="2397" selection-end-column="11" />
           <folding />
         </state>
       </provider>
@@ -1902,7 +2543,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>Web Gradle : EEIT94-2-1.0-SNAPSHOT.war (EEIT94-2_main)|Web</last-edited>
+          <last-edited>Spring (EEIT94-2_main)|Spring</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
