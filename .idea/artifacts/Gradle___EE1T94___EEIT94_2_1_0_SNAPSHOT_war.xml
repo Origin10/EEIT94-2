@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Gradle : EE1T94 : EEIT94-2-1.0-SNAPSHOT.war">
+    <output-path>$PROJECT_DIR$/../EEIT94-2/build/libs</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$/../EEIT94-2" />
+    </properties>
+    <root id="archive" name="EEIT94-2-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Gradle : EE1T94 : EEIT94-2-1.0-SNAPSHOT.war (exploded)" />
+    </root>
+  </artifact>
+</component>

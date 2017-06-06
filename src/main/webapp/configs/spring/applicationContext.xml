@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context" xmlns:tx="http://www.springframework.org/schema/tx"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context
+        http://www.springframework.org/schema/context/spring-context.xsd http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx.xsd http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop.xsd">
+
+    <context:annotation-config/>
+
+    <!--AOP-->
+    <aop:aspectj-autoproxy/>
+
+    <!--包掃描 exclude-filter-->
+    <context:component-scan base-package="Pets.BloodBank">
+        <context:exclude-filter type="annotation"
+                                expression="org.springframework.stereotype.Controller"/>
+    </context:component-scan>
+    <context:component-scan base-package="Pets.ExchangeStuff">
+        <context:exclude-filter type="annotation"
+                                expression="org.springframework.stereotype.Controller"/>
+    </context:component-scan>
+
+    <!--配置JDBC連線文件-->
+    <context:property-placeholder location="classpath:jdbc.properties"/>
+
+    <bean id="dataSource" class="com.mchange.v2.c3p0.ComboPooledDataSource">
+        <property name="driverClass" value="${jdbc.driverClass}"></property>
+        <property name="jdbcUrl" value="${jdbc.url}"></property>
+        <property name="user" value="${jdbc.username}"></property>
+        <property name="password" value="${jdbc.password}"></property>
+    </bean>
+
+    <!-- 配置hibernate相關屬性 -->
+    <bean id="sessionFactory" class="org.springframework.orm.hibernate5.LocalSessionFactoryBean">
+        <!-- 註入鏈接池 -->
+        <property name="dataSource" ref="dataSource"/>
+        <!-- 配置hibernate屬性-->
+        <property name="hibernateProperties">
+            <props>
+                <prop key="hibernate.dialect">org.hibernate.dialect.SQLServerDialect</prop>
+                <prop key="hibernate.show_sql">true</prop>
+                <prop key="hibernate.format_sql">true</prop>
+                <prop key="hibernate.cache.use_second_level_cache">false</prop>
+                <prop key="hibernate.cache.query_cache">false</prop>
+                <prop key="current_session_context_class">thread</prop>
+                <prop key="hibernate.hbm2ddl.auto">update</prop><!-- 有表自動更新表結構，沒有就創建表 -->
+                <prop key="hibernate.current_session_context_class">
+                    org.springframework.orm.hibernate5.SpringSessionContext
+                </prop><!--這裡是使用Spring的事務控制管理-->
+            </props>
+        </property>
+        <!-- 加載hibernate配置文件-->
+
+        <!--<property name="mappingResources">-->
+        <!--<list>-->
+        <!--<value>/Pets/ExchangeStuff/model/Area.hbm.xml</value>-->
+        <!--<value>/Pets/ExchangeStuff/model/Cart.hbm.xml</value>-->
+        <!--<value>/Pets/ExchangeStuff/model/ImageInfo.hbm.xml</value>-->
+        <!--<value>/Pets/ExchangeStuff/model/Stuff.hbm.xml</value>-->
+        <!--<value>/Pets/ExchangeStuff/model/StuffDetail.hbm.xml</value>-->
+        <!--<value>/Pets/BooldBank/model/BloodBank.hbm.xml</value>-->
+        <!--<value>/Pets/BooldBank/model/BloodDetail.hbm.xml</value>-->
+        <!--</list>-->
+        <!--</property>-->
+
+
+        <property name="packagesToScan">
+            <list>
+                <value>Pets.BloodBank.model</value>
+                <value>Pets.ExchangeStuff.model</value>
+            </list>
+        </property>
+
+
+    </bean>
+
+    <!-- 配置事務管理器 -->
+    <bean id="transactionManager" class="org.springframework.orm.hibernate5.HibernateTransactionManager">
+        <property name="sessionFactory" ref="sessionFactory"/>
+    </bean>
+
+    <!-- 開啟註解事務 -->
+    <!--<tx:annotation-driven transaction-manager="transactionManager"/>-->
+
+    <!-- 開啟配置文件事務設定 -->
+    <tx:advice id="txAdvice" transaction-manager="transactionManager">
+        <tx:attributes>
+            <tx:method name="find*" read-only="true" propagation="REQUIRED"/>
+            <tx:method name="get*" read-only="true" propagation="REQUIRED"/>
+            <tx:method name="*" propagation="REQUIRED" rollback-for="Exception"/>
+        </tx:attributes>
+
+    </tx:advice>
+
+    <aop:config proxy-target-class="true">
+        <aop:advisor advice-ref="txAdvice" pointcut="execution(public * Pets.ExchangeStuff.service.*Service.*(..))"/>
+        <aop:advisor advice-ref="txAdvice" pointcut="execution(public * Pets.BloodBank.service.*Service.*(..))"/>
+    </aop:config>
+
+    <!--&lt;!&ndash; 配置action類 &ndash;&gt;-->
+    <!--<bean id="StuffAction" class="Pets.ExchangeStuff.service.StuffService">-->
+    <!--<property name="stuffServic" ref="stuffService"/>-->
+    <!--</bean>-->
+
+    <!--&lt;!&ndash; 配置業務層的類 &ndash;&gt;-->
+    <!--<bean id="productService" class="com.ssh.service.ProductService">-->
+    <!--<property name="productDao" ref="productDao"/>-->
+    <!--</bean>-->
+
+    <!--&lt;!&ndash; 配置DAO的類 &ndash;&gt;-->
+    <!--<bean id="productDao" class="com.ssh.dao.ProductDao">-->
+    <!--<property name="sessionFactory" ref="sessionFactory" />-->
+    <!--</bean>-->
+
+
+</beans>

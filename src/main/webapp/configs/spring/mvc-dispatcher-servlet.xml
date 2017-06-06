@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:mvc="http://www.springframework.org/schema/mvc" xmlns:p="http://www.springframework.org/schema/p"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context 
+        http://www.springframework.org/schema/context/spring-context.xsd
+        http://www.springframework.org/schema/mvc
+        http://www.springframework.org/schema/mvc/spring-mvc.xsd">
+
+    <!-- 本配置文件是工名為mvc-dispatcher的DispatcherServlet使用， 提供其相關的Spring MVC配置 -->
+
+    <!-- 啟用Spring基於annotation的DI, 使用戶可以在Spring MVC中使用Spring的強大功能。 激活 @Required
+        @Autowired,JSR 250's @PostConstruct, @PreDestroy and @Resource 等標註 -->
+    <context:annotation-config/>
+
+    <!-- DispatcherServlet上下文， 只管理@Controller類型的bean， 忽略其他型的bean, 如@Service -->
+    <context:component-scan base-package="Pets.ExchangeStuff">
+        <context:include-filter type="annotation"
+                                expression="org.springframework.stereotype.Controller"/>
+        <context:exclude-filter type="annotation"
+                                expression="org.springframework.stereotype.Service"/>
+        <context:exclude-filter type="annotation"
+                                expression="org.springframework.stereotype.Repository"/>
+    </context:component-scan>
+    <context:component-scan base-package="Pets.BloodBank">
+        <context:include-filter type="annotation"
+                                expression="org.springframework.stereotype.Controller"/>
+        <context:exclude-filter type="annotation"
+                                expression="org.springframework.stereotype.Service"/>
+        <context:exclude-filter type="annotation"
+                                expression="org.springframework.stereotype.Repository"/>
+    </context:component-scan>
+
+    <!-- HandlerMapping, 無需配置， Spring MVC可以默認啟動。 DefaultAnnotationHandlerMapping
+        annotation-driven HandlerMapping -->
+
+    <!-- 擴充了註解驅動，可以將請求參數綁定到控制器參數 -->
+    <mvc:annotation-driven/>
+
+    <!-- 靜態資源處理， css， js， imgs -->
+    <mvc:default-servlet-handler/>
+    <!--<mvc:resources mapping="/resources/**" location="/resources/"></mvc:resources>-->
+
+    <!--回去看MVC相關課程-->
+    <bean class="org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping"/>
+
+    <bean id="mappingStringHttpMessageConverter" class="org.springframework.http.converter.StringHttpMessageConverter">
+        <property name="supportedMediaTypes">
+            <list>
+                <value>text/pain;charset=UTF-8</value>
+                <value>application/json;charset=UTF-8</value>
+            </list>
+        </property>
+    </bean>
+
+    <!--資料轉換-->
+
+    <bean id="mappingJacksonHttpMessageConverter"
+          class="org.springframework.http.converter.json.MappingJackson2HttpMessageConverter">
+        <property name="supportedMediaTypes">
+            <list>
+                <bean class="org.springframework.http.MediaType">
+                    <constructor-arg index="0" value="application"/>
+                    <constructor-arg index="1" value="json"/>
+                    <constructor-arg index="2" value="UTF-8"/>
+                </bean>
+            </list>
+        </property>
+    </bean>
+
+    <bean id="webBindingInitializer" class="org.springframework.web.bind.support.ConfigurableWebBindingInitializer">
+        <property name="conversionService">
+            <bean class="org.springframework.core.convert.support.DefaultConversionService"/>
+        </property>
+    </bean>
+
+    <bean class="org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter">
+        <property name="cacheSeconds" value="0"/>
+        <property name="messageConverters">
+            <list>
+                <ref bean="mappingJacksonHttpMessageConverter"/>
+                <ref bean="mappingStringHttpMessageConverter"/>
+            </list>
+        </property>
+        <property name="webBindingInitializer" ref="webBindingInitializer"/>
+    </bean>
+
+
+    <!--ViewResolver-->
+
+    <!-- 配置ViewResolver。 可以用多個ViewResolver。 使用order屬性排序。 InternalResourceViewResolver放在最後。 -->
+    <bean id="contentNegotiationManager" class="org.springframework.web.accept.ContentNegotiationManagerFactoryBean">
+        <property name="favorPathExtension" value="true"/>
+        <property name="ignoreAcceptHeader" value="true"/>
+        <property name="useJaf" value="false"/>
+        <property name="defaultContentType" value="text/html"/>
+
+        <property name="mediaTypes">
+            <map>
+                <entry key="json" value="application/json"/>
+                <entry key="xml" value="application/xml"/>
+                <entry key="htm" value="text/html"/>
+            </map>
+        </property>
+
+    </bean>
+
+    <bean class="org.springframework.web.servlet.view.ContentNegotiatingViewResolver">
+        <property name="contentNegotiationManager" ref="contentNegotiationManager"/>
+        <property name="viewResolvers">
+            <list>
+                <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver"
+                      p:prefix="/WEB-INF/views/"
+                      p:suffix="jsp"
+                      p:order="2"/>
+
+                <bean class="org.springframework.web.servlet.view.XmlViewResolver"
+                      p:location="/WEB-INF/xml"
+                      p:order="1"/>
+
+                <bean class="org.springframework.web.servlet.view.ResourceBundleViewResolver"
+                      p:basename="views"
+                      p:order="0"/>
+            </list>
+        </property>
+    </bean>
+
+    <!--200*1024*1024即200M resolveLazily屬性啟用是為了推遲文件解析，以便捕獲文件大小異常 -->
+    <bean id="multipartResolver"
+          class="org.springframework.web.multipart.commons.CommonsMultipartResolver">
+        <property name="maxUploadSize" value="209715200"/>
+        <property name="defaultEncoding" value="UTF-8"/>
+        <property name="resolveLazily" value="true"/>
+    </bean>
+</beans>
+
+
+        <!--========= imooc =============-->
+        <!--<bean class="org.springframework.web.servlet.view.ContentNegotiatingViewResolver" id="viewResolver">-->
+        <!--<property name="mediaTypes">-->
+        <!--<map>-->
+        <!--<entry key="json" value="application/json"/>-->
+        <!--</map>-->
+        <!--</property>-->
+        <!--<property name="ignoreAcceptHeader" value="true"/>-->
+        <!--</bean>-->
+        <!--========= imooc =============-->
+
+        <!--進階的寫法?這裡需要搭配-contentNegotiationManager-->
+        <!--<bean class="org.springframework.web.servlet.view.ContentNegotiatingViewResolver">-->
+        <!--<property name="contentNegotiationManager" ref="contentNegotiationManager"/>-->
+        <!--<property name="viewResolvers">-->
+        <!--<list>-->
+        <!--&lt;!&ndash;<bean id="localBasedViewResolver" class="com.company.web.i18n.LocaleBasedViewResolver"&ndash;&gt;-->
+        <!--&lt;!&ndash;p:viewClass="org.springframework.web.servlet.view.JstlView"&ndash;&gt;-->
+        <!--&lt;!&ndash;p:prefix="${views.prefix}"&ndash;&gt;-->
+        <!--&lt;!&ndash;p:suffix="${views.suffix}"&ndash;&gt;-->
+        <!--&lt;!&ndash;p:cacheUnresolved="false"&ndash;&gt;-->
+        <!--&lt;!&ndash;p:exposedContextBeanNames="webProperties"&ndash;&gt;-->
+        <!--&lt;!&ndash;p:order="1"&ndash;&gt;-->
+        <!--&lt;!&ndash;/>&ndash;&gt;-->
+        <!--<bean id="viewResolver"-->
+        <!--class="org.springframework.web.servlet.view.InternalResourceViewResolver"-->
+        <!--p:viewClass="org.springframework.web.servlet.view.JstlView"-->
+        <!--p:prefix="${views.prefix}"-->
+        <!--p:suffix="${views.suffix}"-->
+        <!--p:cacheUnresolved="false"-->
+        <!--p:exposedContextBeanNames="webProperties"-->
+        <!--p:order="2"-->
+        <!--/>-->
+        <!--</list>-->
+        <!--</property>-->
+        <!--<property name="defaultViews">-->
+        <!--<list>-->
+        <!--<bean class="org.springframework.web.servlet.view.json.MappingJackson2JsonView"/>-->
+        <!--</list>-->
+        <!--</property>-->
+        <!--</bean>-->

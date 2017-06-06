@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.struts.xwork:xwork-core:2.3.15.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.struts.xwork/xwork-core/2.3.15.1/4a770c75f314339d3f8d7aec1b03a816c801bb60/xwork-core-2.3.15.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.struts.xwork/xwork-core/2.3.15.1/7df3c64fbfc4fc9ecb552dcff4747204576f693a/xwork-core-2.3.15.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
